@@ -2,7 +2,7 @@
 [Binds guide](https://github.com/Senk0n/csgo_cfg#binds-guide) | [Install guide [RU]](https://steamcommunity.com/sharedfiles/filedetails/?id=1655986494) | [Telegram channel](https://t.me/S0cfg)
 
 ## Install config
-- Download a Senk0n-cfg.cfg file from [Google Drive](https://drive.google.com/open?id=1vs_iNz4q4PHdJntY8mPOSS1zsfRrHFSk), [GitHub](https://git.io/JvTaE) or [Telegram channel](https://t.me/Senk0n_cfg).
+- Download a Senk0n-cfg.cfg file from [GitHub](https://github.com/Senk0n/csgo_cfg/releases/latest), [Google Drive](https://drive.google.com/open?id=1vs_iNz4q4PHdJntY8mPOSS1zsfRrHFSk) or [Telegram](https://t.me/S0cfg).
 - Copy `Senk0n-cfg.cfg` to folder: `\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\`
 - Set a Launch options like below of `Senk0n-cfg.cfg` file.
 - Restart the game, and enter in console this command: `exec Senk0n-cfg.cfg`
@@ -104,12 +104,12 @@ q | Exit the game
 s | Swap teams
 rs | Restart game
 lj | Toggle Long Jump script on MOUSE2
-aim1 | map Aim Botz - Training
-aim2 | map Fast Aim / Reflex Training
-aim3 | map training_aim_csgo2
-aim4 | map Yprac Aim Arena
-fps | map FPS Benchmark
-scr | map Skin Screenshot Map
+aim1 | map [Aim Botz - Training](https://steamcommunity.com/sharedfiles/filedetails/?id=243702660)
+aim2 | map [Fast Aim / Reflex Training](https://steamcommunity.com/sharedfiles/filedetails/?id=368026786)
+aim3 | map [training_aim_csgo2](https://steamcommunity.com/sharedfiles/filedetails/?id=213240871)
+aim4 | map [Yprac Aim Arena](https://steamcommunity.com/sharedfiles/filedetails/?id=1365781615)
+fps | map [FPS Benchmark](https://steamcommunity.com/sharedfiles/filedetails/?id=500334237)
+scr | map [Skin Screenshot Map](https://steamcommunity.com/sharedfiles/filedetails/?id=367814013)
 cfg | Reload config & Show CFG BINDS GUIDE
 
 ## NUMPAD reactions
@@ -119,8 +119,8 @@ Buttons | Actions
 2 | ♡
 3 | ┐(￣～￣)┌
 4 | GG thanks 4 game
-5 | 'SenkOn-cfg.cfg' the most powerfull config ever (>ω^) ==================> senk.one/cfg
+5 | The most powerfull config ( ･ω･)☞ senk.one/cfg &#124; git.io/cscfg
 6 | ヘ(￣ω￣ヘ)
 7 | That onetap, ohh dude .-.
 8 | &#92;___/ <-- cry here, Africa needs water 凸(￣ヘ￣)
-9 | Nein Nein Nein :с
+9 | Nein Nein Nein
