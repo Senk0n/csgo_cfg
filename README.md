@@ -105,7 +105,7 @@ s | Swap teams
 rs | Restart game
 lj | Toggle Long Jump script on MOUSE2
 aim1 | map [Aim Botz - Training](https://steamcommunity.com/sharedfiles/filedetails/?id=243702660)
-aim2 | map [Fast Aim / Reflex Training](https://steamcommunity.com/sharedfiles/filedetails/?id=368026786)
+aim2 | map [Training Center 1.5c](https://steamcommunity.com/sharedfiles/filedetails/?id=353366249)
 aim3 | map [training_aim_csgo2](https://steamcommunity.com/sharedfiles/filedetails/?id=213240871)
 aim4 | map [Yprac Aim Arena](https://steamcommunity.com/sharedfiles/filedetails/?id=1365781615)
 fps | map [FPS Benchmark](https://steamcommunity.com/sharedfiles/filedetails/?id=500334237)
